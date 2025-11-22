@@ -1,0 +1,26 @@
+[
+  {
+    "task_name": "批量任务1",
+    "prompt": "老爷爷",
+    "aspect_ratio": "1:1",
+    "count": 2
+  },
+  {
+    "task_name": "批量任务2",
+    "prompt": "老奶奶",
+    "aspect_ratio": "1:1",
+    "count": 2
+  },
+  {
+    "task_name": "批量任务3",
+    "prompt": "小男孩",
+    "aspect_ratio": "1:1",
+    "count": 2
+  },
+  {
+    "task_name": "批量任务4",
+    "prompt": "小女孩",
+    "aspect_ratio": "1:1",
+    "count": 2
+  }
+]

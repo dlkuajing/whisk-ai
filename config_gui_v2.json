@@ -1,0 +1,17 @@
+{
+  "last_browser": "1 (运行中)",
+  "last_prompt": "A handsom girl",
+  "last_ratio": "4:3",
+  "last_count": 10,
+  "save_directory": "./downloads",
+  "use_enhanced_download": true,
+  "create_task_folders": true,
+  "min_delay": 2,
+  "max_delay": 3,
+  "max_concurrent": 2,
+  "use_window_queue": true,
+  "session_mode": "ask",
+  "idle_timeout": 300,
+  "session_timeout": 600,
+  "appearance_mode": "light"
+}

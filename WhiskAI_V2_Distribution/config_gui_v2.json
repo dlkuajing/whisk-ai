@@ -1,0 +1,12 @@
+{
+  "last_browser": "1 (运行中)",
+  "last_prompt": "A handsom girl",
+  "last_ratio": "1:1",
+  "last_count": 5,
+  "save_directory": "./downloads",
+  "use_enhanced_download": true,
+  "create_task_folders": true,
+  "min_delay": 2,
+  "max_delay": 3,
+  "max_concurrent": 2
+}

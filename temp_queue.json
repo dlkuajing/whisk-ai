@@ -1,0 +1,38 @@
+[
+  {
+    "task_name": "批量任务1",
+    "prompt": "小男孩",
+    "aspect_ratio": "1:1",
+    "count": 5
+  },
+  {
+    "task_name": "批量任务2",
+    "prompt": "小女孩",
+    "aspect_ratio": "1:1",
+    "count": 5
+  },
+  {
+    "task_name": "批量任务3",
+    "prompt": "老太婆",
+    "aspect_ratio": "1:1",
+    "count": 5
+  },
+  {
+    "task_name": "批量任务4",
+    "prompt": "老大爷",
+    "aspect_ratio": "1:1",
+    "count": 5
+  },
+  {
+    "task_name": "批量任务5",
+    "prompt": "小哥哥",
+    "aspect_ratio": "1:1",
+    "count": 5
+  },
+  {
+    "task_name": "批量任务6",
+    "prompt": "小姐姐",
+    "aspect_ratio": "1:1",
+    "count": 5
+  }
+]

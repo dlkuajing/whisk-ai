@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+.superdesign/
+*.swp
+*.swo
+*~
+
+# Build and Distribution
+build/
+dist/*.exe
+dist/*.app
+WhiskAI_V2_Distribution/*.exe
+WhiskAI_V2_Distribution/*.app
+*.spec.bak
+=5.2.0
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# Screenshots and test files
+*_screenshot*.png
+*_test*.png
+whisk_window.png
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# User config (keep template only)
+# config_gui_v2.json
+
+# Documentation drafts
+*设计方案*.md
